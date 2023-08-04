@@ -81,3 +81,14 @@
     text-transform: uppercase;
   }
 }
+@media screen and (min-width: 1024px) {  
+
+  .container__menu-titulo{
+    display: block;
+  }
+
+  .container__menu-titulo:last-child{
+    padding-right: 1em;
+  }
+
+}
